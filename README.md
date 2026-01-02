@@ -1,82 +1,36 @@
-# 👋 Hi, I'm Rinku Rapria
+<div align="center">
 
-**VDI Support Engineer | Windows & Active Directory | Virtual Desktop Infrastructure**
+# Rinku Rapria
+**VDI Support Engineer | Windows | AD DS | AVD**
 
-I’m a VDI Support Engineer specializing in **Active Directory (AD DS)**, **Windows troubleshooting**, and **Virtual Desktop Infrastructure** including **Azure Virtual Desktop (AVD)**, **Windows VDI**, and **VMware VDI**.
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-003A70?style=for-the-badge&logo=microsoft&logoColor=white)
+![Azure Virtual Desktop](https://img.shields.io/badge/Azure%20Virtual%20Desktop-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![VMware VDI](https://img.shields.io/badge/VMware%20VDI-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoft365&logoColor=white)
 
-🌐 **Portfolio:** https://www.rinkurapria.dev  
-📝 **Blog:** https://www.rinkurapria.dev/blog  
-👤 **Bio:** https://www.rinkurapria.dev/bio  
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://www.rinkurapria.dev)
+[![Bio](https://img.shields.io/badge/Bio-111111?style=for-the-badge&logo=readthedocs&logoColor=white)](https://www.rinkurapria.dev/bio)
+[![Blog](https://img.shields.io/badge/Blog-111111?style=for-the-badge&logo=hashnode&logoColor=white)](https://www.rinkurapria.dev/blog)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rinku-rapria/)
+[![Email](https://img.shields.io/badge/Email-222222?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Contact@rinkurapria.dev)
 
----
+</div>
 
-## 🔭 I’m currently working on
-- Enterprise **VDI support** (AVD, Windows VDI, VMware VDI)
-- **Active Directory** administration and troubleshooting
-- Improving my **portfolio, blog, and case studies** with real-world incidents
+### What I do
+| 🏢 Active Directory Administration | 💻 Virtual Desktop Infrastructure | 🪟 Windows Troubleshooting |
+|---|---|---|
+| AD DS admin, GPO, auth, identity ops | AVD / Windows VDI / VMware VDI support | Triage → root cause → repeatable fixes |
 
----
+### Current status
+![Working on](https://img.shields.io/badge/🔭%20Working%20on-Enterprise%20VDI%20%26%20AD%20support-1F1F1F?style=for-the-badge)
+![Learning](https://img.shields.io/badge/🌱%20Learning-MD--102%20%7C%20Linux%20fundamentals-1F1F1F?style=for-the-badge)
 
-## 🌱 I’m currently learning
-- **Microsoft 365 Endpoint Administrator (MD-102)**
-- **Linux fundamentals** (LFS101)
-- Automation, scripting, and better infra documentation practices
-
----
-
-## 👯 I’m looking to collaborate on
-- Windows / VDI troubleshooting guides
-- Infrastructure documentation & case studies
-- Learning-focused IT projects (Windows, AD, M365)
-
----
-
-## 🤔 I’m looking for help with
-- Advanced **PowerShell automation**
-- Deeper **Azure & M365 architecture**
-- Best practices for scalable IT documentation
+### Highlights
+[![Case Studies](https://img.shields.io/badge/🧪%20Case%20Studies-View-111111?style=for-the-badge)](https://www.rinkurapria.dev/case-studies)
+[![Certifications](https://img.shields.io/badge/🎓%20Certifications-View-111111?style=for-the-badge)](https://www.rinkurapria.dev#certifications)
 
 ---
 
-## 💬 Ask me about
-- Active Directory (AD DS)
-- Azure Virtual Desktop (AVD)
-- Windows troubleshooting
-- VDI environments & enterprise support workflows
-
----
-
-## 📫 How to reach me
-- 📧 Email: Contact@rinkurapria.dev  
-- 💼 LinkedIn: https://www.linkedin.com/in/rinku-rapria/  
-- 🐦 X (Twitter): https://x.com/Rapria_Rinku  
-
----
-
-## 😄 Pronouns
-- He / Him
-
----
-
-## ⚡ Fun fact
-- I enjoy breaking complex Windows & VDI issues down into **simple, repeatable fixes** and documenting them so others don’t have to struggle the same way.
-
----
-
-## 🧪 Case Studies
-- 🔍 **Windows 365 Token Validation Failure – Case Study**  
-  👉 https://www.rinkurapria.dev/case-studies/windows-365-token-failure-run-remediation.html
-
----
-
-## 🎓 Certifications
-- Microsoft Certified: Azure Data Fundamentals  
-- Microsoft Applied Skills: Administer AD DS  
-- Career Essentials in System Administration  
-- TECH BEE – HCL Early Career Program  
-- L3 Dev Prompt Engineer – HCLTech  
-
----
-
-## 🌍 Location
-📍 Noida, Uttar Pradesh, India
+**Noida, India 🇮🇳** · **He/Him**  
+Turning Windows chaos into documented fixes.
