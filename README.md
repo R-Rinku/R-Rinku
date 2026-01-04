@@ -4,8 +4,8 @@
 **VDI Support Engineer | Windows | AD DS | AVD**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://www.rinkurapria.dev)
-[![Bio](https://img.shields.io/badge/Bio-111111?style=for-the-badge&logo=readthedocs&logoColor=white)](https://www.rinkurapria.dev/bio)
-[![Blog](https://img.shields.io/badge/Blog-111111?style=for-the-badge&logo=hashnode&logoColor=white)](https://www.rinkurapria.dev/blog)
+[![Bio](https://img.shields.io/badge/Bio-111111?style=for-the-badge&logo=readthedocs&logoColor=white)](https://bio.rinkurapria.dev/)
+[![Blog](https://img.shields.io/badge/Blog-111111?style=for-the-badge&logo=hashnode&logoColor=white)](https://blog.rinkurapria.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rinku-rapria/)
 [![Email](https://img.shields.io/badge/Email-222222?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Contact@rinkurapria.dev)
 
